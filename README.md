@@ -21,9 +21,9 @@ HTML5 | CSS3 | Flexbox | Grid | Git (чуть позже) | GitHub | JavaScript 
 
 ## Проекты
 
-[пинтерест клон](https://abdurrahman0167.github.io/pinterest-mini-clone/)
+-[пинтерест клон](https://abdurrahman0167.github.io/pinterest-mini-clone/) — галерея на CSS Grid
 
-- (будут еще)
+- (будут новые проекты — в процессе разработки)
 
 ---
 
