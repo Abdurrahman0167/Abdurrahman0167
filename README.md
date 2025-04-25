@@ -23,7 +23,7 @@ HTML5 | CSS3 | Flexbox | Grid | Git (чуть позже) | GitHub | JavaScript 
 
 - [Лендинг дизайна интерьера]( https://abdurrahman0167.github.io/interior-design-landing/) — Адаптивная вёрстка одностраничного сайта для студии дизайна интерьеров
 
-- [пинтерест клон](https://abdurrahman0167.github.io/pinterest-mini-clone/) — галерея на CSS Grid
+- [пинтерест клон](https://abdurrahman0167.github.io/pinterest-mini-clone/) — Галерея изображений на CSS Grid с адаптивом
 
 - (будут новые проекты — в процессе разработки)
 
