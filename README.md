@@ -21,6 +21,8 @@ HTML5 | CSS3 | Flexbox | Grid | Git (чуть позже) | GitHub | JavaScript 
 
 ## Проекты
 
+- [Лендинг дизайна интерьера]() —
+
 - [пинтерест клон](https://abdurrahman0167.github.io/pinterest-mini-clone/) — галерея на CSS Grid
 
 - (будут новые проекты — в процессе разработки)
