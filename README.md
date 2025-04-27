@@ -17,7 +17,7 @@
 
 ## Технологии
 
-HTML5 | CSS3 | Flexbox | Grid | Git | GitHub | JavaScript (в процессе) | VS Code
+HTML5 | CSS3 | Flexbox | Grid | GitHub | JavaScript (в процессе) | VS Code
 
 ---
 
