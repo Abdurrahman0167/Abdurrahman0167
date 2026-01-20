@@ -34,11 +34,10 @@ HTML5 | CSS3 | Flexbox | Grid | GitHub | JavaScript (в процессе) | VS C
 
 ## Проекты
 
-
-- [Лендинг дизайна интерьера]( https://abdurrahman0167.github.io/interior-design-landing/) — Адаптивная вёрстка одностраничного сайта для студии дизайна интерьеров.
-
-- [пинтерест клон](https://abdurrahman0167.github.io/pinterest-mini-clone/) — Галерея изображений на CSS Grid с адаптивом.
 - [aveji](https://abdurrahman0167.github.io/aveji/) — Сайт компании aveji которая занимается производством и продажей эксклюзивной
+- [Лендинг дизайна интерьера]( https://abdurrahman0167.github.io/interior-design-landing/) — Адаптивная вёрстка одностраничного сайта для студии дизайна интерьеров.
+- [пинтерест клон](https://abdurrahman0167.github.io/pinterest-mini-clone/) — Галерея изображений на CSS Grid с адаптивом.
+
 и нестандартной мебели
 
 - (будут новые проекты — в процессе разработки)
